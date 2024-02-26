@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="14.050733mm"
+   height="24.77231mm"
+   viewBox="0 0 14.050733 24.77231"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-79.16073,-69.224867)">
+    <g
+       id="g2">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.5924px;font-family:'Euclid Fraktur';-inkscape-font-specification:'Euclid Fraktur';fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.249228;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         x="74.032722"
+         y="87.956345"
+         id="text1"
+         transform="scale(1.035859,0.96538234)"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.5924px;font-family:'Euclid Fraktur';-inkscape-font-specification:'Euclid Fraktur';fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.249228;stroke-opacity:1"
+           x="74.032722"
+           y="87.956345">c</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Euclid Fraktur';-inkscape-font-specification:'Euclid Fraktur';fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.183;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         x="82.19796"
+         y="88.520874"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="stroke-width:0.183"
+           x="82.19796"
+           y="88.520874">p</tspan></text>
+    </g>
+  </g>
+</svg>
